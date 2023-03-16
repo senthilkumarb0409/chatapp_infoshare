@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40726154658",
+    "project_id": "infoshare-238f5",
+    "storage_bucket": "infoshare-238f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40726154658:android:d444930c37351da9a2b6fb",
+        "android_client_info": {
+          "package_name": "com.techerra.infoshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40726154658-6p9pk3ltnpbsokvh2hko78pa1u6c9gpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaTaOwqgx86njGPJV-GE1f8IW2b4m79cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40726154658-6p9pk3ltnpbsokvh2hko78pa1u6c9gpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

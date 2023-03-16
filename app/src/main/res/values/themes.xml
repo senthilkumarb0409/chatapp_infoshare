@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Infoshare" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/bluiie</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/bluiie</item>
+
+    </style>
+</resources>
